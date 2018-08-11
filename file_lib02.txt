@@ -1,1 +1,2 @@
 Versao inicial file lib 02
+Versao 1 - Revisao da Lib
